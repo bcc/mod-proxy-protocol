@@ -2,7 +2,7 @@ Source: mod-proxy-protocol
 Section: web
 Priority: optional
 Maintainer: Roadrunner2 <roadrunner2@github.com>
-Build-Depends: debhelper (>= 7.0.50~), apache2-dev (>= 2.4.0), xsltproc
+Build-Depends: debhelper (>= 7.0.50~), apache2-dev (>= 2.4.0)
 Standards-Version: 3.8.4
 Homepage: https://github.com/roadrunner2/mod-proxy-protocol
 

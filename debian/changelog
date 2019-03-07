@@ -1,4 +1,10 @@
-mod-proxy-protocol (0.2-1) xenial; urgency=low
+mod-proxy-protocol (0.2-2) stable; urgency=low
+
+  * Resolved error message caused by internal apache requests
+
+ -- Ben Charlton <bcc@spod.cx>  Thu, 07 Mar 2018 16:50:19 -0000
+
+mod-proxy-protocol (0.2-1) stable; urgency=low
 
   * Merged patch to fix http/2 issues.
 
